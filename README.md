@@ -13,6 +13,6 @@ We hope that this research can give a wider view of intrinsic defects roles to t
 <br>
 ## Table of Content 
 Note: all contents here are written in Indonesian as required by the university.
-- [Thesis Paper]()
+- [Thesis Paper](https://github.com/MichaelYoshua98/SolarCellCZTS/blob/main/Laporan%20Tugas%20Akhir.pdf)
 - [Thesis Final Presentation]()
 - [Thesis Poster]()
