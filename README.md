@@ -14,5 +14,8 @@ We hope that this research can give a wider view of intrinsic defects roles to t
 ## Table of Content 
 Note: all contents here are written in Indonesian as required by the university.
 - [Thesis Paper](https://github.com/MichaelYoshua98/SolarCellCZTS/blob/main/Laporan%20Tugas%20Akhir.pdf)
-- [Thesis Final Presentation]()
-- [Thesis Poster]()
+- [Thesis Final Presentation](https://github.com/MichaelYoshua98/SolarCellCZTS/blob/main/PPT_Final.pdf)
+- [Thesis Poster](https://github.com/MichaelYoshua98/SolarCellCZTS/blob/main/Poster.pdf)
+## Suggestion
+![Result](https://user-images.githubusercontent.com/81946043/113545693-dca14180-9614-11eb-83a4-99ebcf754a36.JPG)
+One of the suggestion that we made from this computational and simulation, to answer the procons abaout the fabrication environment for CZTS Solar Cell. in this graph we can see that we need the Sn-rich to reduce V_{Sn} but there are procons between the Cu-poor vs Cu-rich and Zn-poor vs Zn-rich. int his simulation we can know why there are such procons like those.
