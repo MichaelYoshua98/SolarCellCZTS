@@ -9,3 +9,10 @@ One of the factors that lower the efficiency of CZTS is this material consists o
 <br>
 We hope that this research can give a wider view of intrinsic defects roles to the CZTS solar cell’s performance.<br>
 **Keywords: CZTS, intrinsic defects, defect’s formation energy, electronic structure**
+<br>
+<br>
+## Table of Content 
+Note: all contents here are written in Indonesian as required by the university.
+- [Thesis Paper]()
+- [Thesis Final Presentation]()
+- [Thesis Poster]()
