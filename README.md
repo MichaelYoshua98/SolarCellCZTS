@@ -7,5 +7,5 @@ Until 2017, the world’s need for electricity has reached 25,606 TWh, where 65.
 <br>
 One of the factors that lower the efficiency of CZTS is this material consists of four elements so that the formation of intrinsic defects in this material is high. Based on the experiment result, the most stable CZTS surface is the (112)/(<img src="https://render.githubusercontent.com/render/math?math=\overline{112}">) facet. Yet, the polar surface makes it very reactive, and could be more stable after the surface reconstruction. Another option that may stabilized the surface is due to the defects in the surface construction. On the other hand, the defects in the material could alter the electronic structure, which is one of the key factors in determining the solar cell’s performance. For that reason, we want to learn the effects of the defects that may be formed in the (112)/(<img src="https://render.githubusercontent.com/render/math?math=\overline{112}">) CZTS surface, starting from the defect’s formation energy to the electronic structure.<br>
 <br>
-We hope that this research can give a wider view of intrinsic defects roles to the CZTS solar cell’s performance.
+We hope that this research can give a wider view of intrinsic defects roles to the CZTS solar cell’s performance.<br>
 **Keywords: CZTS, intrinsic defects, defect’s formation energy, electronic structure**
